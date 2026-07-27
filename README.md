@@ -43,7 +43,7 @@ const hat3fame = {
 
 <p align="center">
   <a href="https://t.me/catonswag"><img src="https://img.shields.io/badge/Telegram-@catonswag-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://discord.com/users/cf1d"><img src="https://img.shields.io/badge/Discord-cf1d-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://img.shields.io/badge/Discord-cf1d-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   <a href="https://github.com/hat3fame"><img src="https://img.shields.io/badge/GitHub-@hat3fame-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
