@@ -21,7 +21,7 @@ const hat3fame = {
 ## `> stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,nodejs,discord,bots,git,github&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,python,html,css,nodejs,figma,ps,discord,bots,git,github&theme=dark" alt="Tech stack" />
 </p>
 
 ## `> what I build`
