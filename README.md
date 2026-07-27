@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+hat3fame+%F0%9F%91%8B;Web+Developer+%E2%80%A2+Discord+Systems+%E2%80%A2+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+hat3fame+%F0%9F%91%8B;Web+Developer+%E2%80%A2+Discord+Systems+%E2%80%A2+Security" alt="Typing SVG" />
   <br />
   <br />
   <a href="https://github.com/hat3fame?tab=followers"><img src="https://img.shields.io/github/followers/hat3fame?label=Followers&style=for-the-badge&color=7C3AED&labelColor=111827" alt="GitHub followers" /></a>
